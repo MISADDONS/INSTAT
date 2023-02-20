@@ -73,3 +73,6 @@ http://46.21.250.55:8080/mahmoud/mahmoud/552378
 
 #EXTINF:-1 tvg-id="ES: INSTAT 25 FHD  (Solo Eventos)" tvg-logo="noimage.png" group-title="M+  LA LIGA", ES: INSTAT 25 FHD  (Solo Eventos)
 http://46.21.250.55:8080/mahmoud/mahmoud/552379
+
+#EXTINF:-1 tvg-id="M+  EUROSPORT FULL HD" tvg-logo="noimage.png" group-title="DEPORTES EN M+", M+  EUROSPORT FULL HD
+http://46.21.250.55:8080/mahmoud/mahmoud/399374
