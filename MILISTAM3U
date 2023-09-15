@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:1 ,+24 (576p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
+#EXTINF:1 ,+tdp [Geo-blocked]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:1 ,101 Tele Antequera (1080p)  (Music)
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:1 ,101TV Malaga (1080p)  (News)
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:1 ,25 TV (480p) [Not 24/7]
+https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
